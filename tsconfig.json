@@ -7,9 +7,7 @@
     "sourceMap": true,
     "target": "ES2018",
     "types": [
-      "node",
-      "reflect-metadata",
-      "jest"
+      "node"
     ],
     "typeRoots": [
       "./types",
